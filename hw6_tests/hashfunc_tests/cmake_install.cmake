@@ -1,4 +1,4 @@
-# Install script for directory: /work/docker/hw6/hw6_tests/hashfunc_tests
+# Install script for directory: /home/codio/workspace/hw6/hw6_tests/hashfunc_tests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-# Install script for directory: /work/docker/hw6/hw6_tests/testing_utils/kwsys
+# Install script for directory: /home/codio/workspace/hw6/hw6_tests/testing_utils/kwsys
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
